@@ -1,0 +1,20 @@
+spring boot starters
+crud operations tomorrow 4 pm
+query prameters
+pathvariable
+dao
+exception handling and security next week
+jwt token
+global exception handling
+
+relational mapping and focus on delete
+
+focus on for 1 sep interview
+@Transient
+
+why do we need delete mapping why not put mapping instead?
+
+whats the difference between delete by id and delete by object.
+created_by and created_at
+
+DTO class/object for returning response
